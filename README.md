@@ -24,4 +24,4 @@ A mobile game built using Flutter and published on Google Play Store.
 - HTML, CSS
 
 ## 📫 Contact
-- Email: your-email@gmail.com
+- Email: dhiren4ur@gmail.com
