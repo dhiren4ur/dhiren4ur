@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Dhiren Panchal
 
-🚀 Freelance Developer | Web & Mobile Apps
+🚀 Building Real-World Web & Mobile Applications  
+💡 Specializing in Flutter, PHP & JavaScript  
 
 ## 💼 What I Do
 - 🌐 Web Apps (PHP, JavaScript)
