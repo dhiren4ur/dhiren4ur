@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Dhiren Panchal
 
-<!--
-**dhiren4ur/dhiren4ur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Freelance Developer | Web & Mobile Apps
 
-Here are some ideas to get you started:
+## 💼 What I Do
+- 🌐 Web Apps (PHP, JavaScript)
+- 📱 Mobile Apps (Flutter)
+- 🔧 API Integration & Backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 My Projects
+
+### 🗓 Panchang Web App
+👉 https://mysmallapp.iceiy.com/calendar/  
+A full-featured Panchang calendar with real-time calculations.
+
+### 🎮 Snakes & Ladders Game
+👉 https://play.google.com/store/apps/details?id=com.devdhiren.snacks_ladders  
+A mobile game built using Flutter and published on Google Play Store.
+
+## 🛠 Tech Stack
+- Flutter (Dart)
+- JavaScript
+- PHP
+- HTML, CSS
+
+## 📫 Contact
+- Email: your-email@gmail.com
